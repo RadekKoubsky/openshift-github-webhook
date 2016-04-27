@@ -1,4 +1,2 @@
-Repository Init Content
+A BPMS repository used for OpenShift GitHub Webhooks
 =======================
-
-Your project description here.
